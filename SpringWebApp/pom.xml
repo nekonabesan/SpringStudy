@@ -149,7 +149,7 @@
 				<server>localtomcat</server>
 				<port>8080</port>
 				<update>true</update>
-				<path>/SpringWebApp</path>
+				<path>/SpringMyApp</path>
 				</configuration>
 			</plugin>
         </plugins>
